@@ -1,6 +1,6 @@
 """Main file for McCabe thiele method."""
 
-ratio = 1.6
+ratio = 1.4
 
 
 def mccabe_thiele_calculations(feed_flow, xf, xd):
